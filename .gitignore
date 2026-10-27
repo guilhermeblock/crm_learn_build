@@ -1,0 +1,13 @@
+node_modules
+.next
+next-env.d.ts
+*.tsbuildinfo
+
+# variáveis locais (a chave do Resend nunca vai para o Git)
+.env*
+!.env.example
+.vercel
+
+# prints de revisão: pesados e gerados pelos scripts em scripts/
+docs/screenshots/
+test-results/

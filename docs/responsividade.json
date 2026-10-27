@@ -1,0 +1,2072 @@
+{
+  "phone-small": {
+    "size": "360×740",
+    "moments": {
+      "rooftop": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 110
+          },
+          "card": {
+            "x": 16,
+            "y": 513,
+            "w": 328,
+            "h": 211
+          },
+          "panel": null,
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 26,
+        "labelsHidden": 0,
+        "smallTargets": 0,
+        "smallExamples": [],
+        "tinyText": 13,
+        "fps": 60
+      },
+      "brain": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 110
+          },
+          "card": {
+            "x": 16,
+            "y": 344,
+            "w": 328,
+            "h": 419
+          },
+          "panel": null,
+          "reopen": {
+            "x": 102,
+            "y": 96,
+            "w": 242,
+            "h": 40
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 49,
+        "labelsHidden": 0,
+        "smallTargets": 8,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 53×26",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 25,
+        "fps": 60
+      },
+      "heart": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 110
+          },
+          "card": {
+            "x": 16,
+            "y": 344,
+            "w": 328,
+            "h": 419
+          },
+          "panel": null,
+          "reopen": {
+            "x": 102,
+            "y": 96,
+            "w": 242,
+            "h": 40
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 49,
+        "labelsHidden": 0,
+        "smallTargets": 8,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 53×26",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 25,
+        "fps": 60
+      },
+      "backbone": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 110
+          },
+          "card": {
+            "x": 16,
+            "y": 318,
+            "w": 328,
+            "h": 472
+          },
+          "panel": null,
+          "reopen": {
+            "x": 80,
+            "y": 96,
+            "w": 264,
+            "h": 40
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 52,
+        "labelsHidden": 0,
+        "smallTargets": 8,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 53×26",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 25,
+        "fps": 60
+      },
+      "heart-panel": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 110
+          },
+          "card": null,
+          "panel": {
+            "x": 0,
+            "y": 281,
+            "w": 360,
+            "h": 459
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 62,
+        "labelsHidden": 0,
+        "smallTargets": 10,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 53×26",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 31,
+        "fps": 60
+      },
+      "glossary": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 110
+          },
+          "card": null,
+          "panel": {
+            "x": 0,
+            "y": 281,
+            "w": 360,
+            "h": 459
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 62,
+        "labelsHidden": 0,
+        "smallTargets": 10,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 53×26",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 32,
+        "fps": 60
+      },
+      "synthesis": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 360,
+            "h": 110
+          },
+          "card": null,
+          "panel": {
+            "x": 0,
+            "y": 281,
+            "w": 360,
+            "h": 459
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 62,
+        "labelsHidden": 0,
+        "smallTargets": 10,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 53×26",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 31,
+        "fps": 60
+      }
+    },
+    "errors": []
+  },
+  "phone": {
+    "size": "390×844",
+    "moments": {
+      "rooftop": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 110
+          },
+          "card": {
+            "x": 16,
+            "y": 644,
+            "w": 358,
+            "h": 184
+          },
+          "panel": null,
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 20,
+        "labelsHidden": 0,
+        "smallTargets": 0,
+        "smallExamples": [],
+        "tinyText": 13,
+        "fps": 60
+      },
+      "brain": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 110
+          },
+          "card": {
+            "x": 16,
+            "y": 424,
+            "w": 358,
+            "h": 419
+          },
+          "panel": null,
+          "reopen": {
+            "x": 132,
+            "y": 96,
+            "w": 242,
+            "h": 40
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 46,
+        "labelsHidden": 0,
+        "smallTargets": 8,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 53×26",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 25,
+        "fps": 60
+      },
+      "heart": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 110
+          },
+          "card": {
+            "x": 16,
+            "y": 424,
+            "w": 358,
+            "h": 419
+          },
+          "panel": null,
+          "reopen": {
+            "x": 132,
+            "y": 96,
+            "w": 242,
+            "h": 40
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 46,
+        "labelsHidden": 0,
+        "smallTargets": 8,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 53×26",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 25,
+        "fps": 60
+      },
+      "backbone": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 110
+          },
+          "card": {
+            "x": 16,
+            "y": 408,
+            "w": 358,
+            "h": 452
+          },
+          "panel": null,
+          "reopen": {
+            "x": 110,
+            "y": 96,
+            "w": 264,
+            "h": 40
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 47,
+        "labelsHidden": 0,
+        "smallTargets": 8,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 53×26",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 25,
+        "fps": 60
+      },
+      "heart-panel": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 110
+          },
+          "card": null,
+          "panel": {
+            "x": 0,
+            "y": 321,
+            "w": 390,
+            "h": 523
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 62,
+        "labelsHidden": 0,
+        "smallTargets": 10,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 53×26",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 32,
+        "fps": 60
+      },
+      "glossary": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 110
+          },
+          "card": null,
+          "panel": {
+            "x": 0,
+            "y": 321,
+            "w": 390,
+            "h": 523
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 62,
+        "labelsHidden": 0,
+        "smallTargets": 10,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 53×26",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 33,
+        "fps": 60
+      },
+      "synthesis": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 110
+          },
+          "card": null,
+          "panel": {
+            "x": 0,
+            "y": 321,
+            "w": 390,
+            "h": 523
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 62,
+        "labelsHidden": 0,
+        "smallTargets": 10,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 53×26",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 32,
+        "fps": 60
+      }
+    },
+    "errors": []
+  },
+  "phone-land": {
+    "size": "844×390",
+    "moments": {
+      "rooftop": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 844,
+            "h": 52
+          },
+          "card": {
+            "x": 8,
+            "y": 113,
+            "w": 320,
+            "h": 208
+          },
+          "panel": null,
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 20,
+        "labelsHidden": 0,
+        "smallTargets": 0,
+        "smallExamples": [],
+        "tinyText": 13,
+        "fps": 60
+      },
+      "brain": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 844,
+            "h": 52
+          },
+          "card": {
+            "x": 8,
+            "y": 52,
+            "w": 320,
+            "h": 330
+          },
+          "panel": null,
+          "reopen": {
+            "x": 594,
+            "y": 342,
+            "w": 242,
+            "h": 40
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 32,
+        "labelsHidden": 0,
+        "smallTargets": 8,
+        "smallExamples": [
+          "Marketing 84×28",
+          "Vendas 64×28",
+          "Produto 70×28",
+          "Atendimento 98×28",
+          "CS 36×28",
+          "Financeiro 91×28"
+        ],
+        "tinyText": 25,
+        "fps": 60
+      },
+      "heart": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 844,
+            "h": 52
+          },
+          "card": {
+            "x": 8,
+            "y": 52,
+            "w": 320,
+            "h": 330
+          },
+          "panel": null,
+          "reopen": {
+            "x": 594,
+            "y": 342,
+            "w": 242,
+            "h": 40
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 32,
+        "labelsHidden": 0,
+        "smallTargets": 12,
+        "smallExamples": [
+          "Marketing 84×28",
+          "Vendas 64×28",
+          "Produto 70×28",
+          "Atendimento 98×28",
+          "CS 36×28",
+          "Financeiro 91×28"
+        ],
+        "tinyText": 25,
+        "fps": 60
+      },
+      "backbone": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 844,
+            "h": 52
+          },
+          "card": {
+            "x": 8,
+            "y": 52,
+            "w": 320,
+            "h": 330
+          },
+          "panel": null,
+          "reopen": {
+            "x": 572,
+            "y": 342,
+            "w": 264,
+            "h": 40
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 32,
+        "labelsHidden": 0,
+        "smallTargets": 8,
+        "smallExamples": [
+          "Marketing 84×28",
+          "Vendas 64×28",
+          "Produto 70×28",
+          "Atendimento 98×28",
+          "CS 36×28",
+          "Financeiro 91×28"
+        ],
+        "tinyText": 25,
+        "fps": 60
+      },
+      "heart-panel": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 844,
+            "h": 52
+          },
+          "card": null,
+          "panel": {
+            "x": 396,
+            "y": 52,
+            "w": 440,
+            "h": 330
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 44,
+        "labelsHidden": 4,
+        "smallTargets": 14,
+        "smallExamples": [
+          "Marketing 84×28",
+          "Vendas 64×28",
+          "Produto 70×28",
+          "Atendimento 98×28",
+          "CS 36×28",
+          "Financeiro 91×28"
+        ],
+        "tinyText": 30,
+        "fps": 60
+      },
+      "glossary": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 844,
+            "h": 52
+          },
+          "card": null,
+          "panel": {
+            "x": 396,
+            "y": 52,
+            "w": 440,
+            "h": 330
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 44,
+        "labelsHidden": 4,
+        "smallTargets": 14,
+        "smallExamples": [
+          "Marketing 84×28",
+          "Vendas 64×28",
+          "Produto 70×28",
+          "Atendimento 98×28",
+          "CS 36×28",
+          "Financeiro 91×28"
+        ],
+        "tinyText": 31,
+        "fps": 60
+      },
+      "synthesis": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 844,
+            "h": 52
+          },
+          "card": null,
+          "panel": {
+            "x": 396,
+            "y": 52,
+            "w": 440,
+            "h": 330
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 44,
+        "labelsHidden": 3,
+        "smallTargets": 10,
+        "smallExamples": [
+          "Marketing 84×28",
+          "Vendas 64×28",
+          "Produto 70×28",
+          "Atendimento 98×28",
+          "CS 36×28",
+          "Financeiro 91×28"
+        ],
+        "tinyText": 30,
+        "fps": 60
+      }
+    },
+    "errors": []
+  },
+  "tablet": {
+    "size": "820×1180",
+    "moments": {
+      "rooftop": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 820,
+            "h": 60
+          },
+          "card": {
+            "x": 24,
+            "y": 992,
+            "w": 600,
+            "h": 164
+          },
+          "panel": null,
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 10,
+        "labelsHidden": 0,
+        "smallTargets": 0,
+        "smallExamples": [],
+        "tinyText": 12,
+        "fps": 60
+      },
+      "brain": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 820,
+            "h": 60
+          },
+          "card": {
+            "x": 24,
+            "y": 794,
+            "w": 600,
+            "h": 362
+          },
+          "panel": null,
+          "reopen": {
+            "x": 562,
+            "y": 96,
+            "w": 242,
+            "h": 40
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 22,
+        "labelsHidden": 0,
+        "smallTargets": 8,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 64×28",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 24,
+        "fps": 60
+      },
+      "heart": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 820,
+            "h": 60
+          },
+          "card": {
+            "x": 24,
+            "y": 794,
+            "w": 600,
+            "h": 362
+          },
+          "panel": null,
+          "reopen": {
+            "x": 562,
+            "y": 96,
+            "w": 242,
+            "h": 40
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 22,
+        "labelsHidden": 0,
+        "smallTargets": 8,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 64×28",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 24,
+        "fps": 60
+      },
+      "backbone": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 820,
+            "h": 60
+          },
+          "card": {
+            "x": 24,
+            "y": 762,
+            "w": 600,
+            "h": 394
+          },
+          "panel": null,
+          "reopen": {
+            "x": 540,
+            "y": 96,
+            "w": 264,
+            "h": 40
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 24,
+        "labelsHidden": 0,
+        "smallTargets": 8,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 64×28",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 24,
+        "fps": 60
+      },
+      "heart-panel": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 820,
+            "h": 60
+          },
+          "card": null,
+          "panel": {
+            "x": 0,
+            "y": 519,
+            "w": 820,
+            "h": 661
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 56,
+        "labelsHidden": 0,
+        "smallTargets": 13,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 64×28",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 36,
+        "fps": 60
+      },
+      "glossary": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 820,
+            "h": 60
+          },
+          "card": null,
+          "panel": {
+            "x": 0,
+            "y": 519,
+            "w": 820,
+            "h": 661
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 56,
+        "labelsHidden": 0,
+        "smallTargets": 13,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 64×28",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 37,
+        "fps": 60
+      },
+      "synthesis": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 820,
+            "h": 60
+          },
+          "card": null,
+          "panel": {
+            "x": 0,
+            "y": 519,
+            "w": 820,
+            "h": 661
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 56,
+        "labelsHidden": 0,
+        "smallTargets": 13,
+        "smallExamples": [
+          "Marketing 14×14",
+          "Vendas 64×28",
+          "Produto 14×14",
+          "Atendimento 14×14",
+          "CS 14×14",
+          "Financeiro 14×14"
+        ],
+        "tinyText": 36,
+        "fps": 60
+      }
+    },
+    "errors": []
+  },
+  "tablet-land": {
+    "size": "1180×820",
+    "moments": {
+      "rooftop": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1180,
+            "h": 72
+          },
+          "card": {
+            "x": 24,
+            "y": 318,
+            "w": 392,
+            "h": 236
+          },
+          "panel": null,
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 10,
+        "labelsHidden": 0,
+        "smallTargets": 1,
+        "smallExamples": [
+          "GUI BLOCK · CRM CO 213×16"
+        ],
+        "tinyText": 13,
+        "fps": 60
+      },
+      "brain": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1180,
+            "h": 72
+          },
+          "card": {
+            "x": 24,
+            "y": 76,
+            "w": 392,
+            "h": 720
+          },
+          "panel": null,
+          "reopen": {
+            "x": 914,
+            "y": 756,
+            "w": 242,
+            "h": 40
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 29,
+        "labelsHidden": 0,
+        "smallTargets": 9,
+        "smallExamples": [
+          "Marketing 84×28",
+          "Vendas 64×28",
+          "Produto 70×28",
+          "Atendimento 98×28",
+          "CS 36×28",
+          "Financeiro 91×28"
+        ],
+        "tinyText": 35,
+        "fps": 60
+      },
+      "heart": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1180,
+            "h": 72
+          },
+          "card": {
+            "x": 24,
+            "y": 76,
+            "w": 392,
+            "h": 720
+          },
+          "panel": null,
+          "reopen": {
+            "x": 914,
+            "y": 756,
+            "w": 242,
+            "h": 40
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 29,
+        "labelsHidden": 0,
+        "smallTargets": 13,
+        "smallExamples": [
+          "Marketing 84×28",
+          "Vendas 64×28",
+          "Produto 70×28",
+          "Atendimento 98×28",
+          "CS 36×28",
+          "Financeiro 91×28"
+        ],
+        "tinyText": 36,
+        "fps": 60
+      },
+      "backbone": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1180,
+            "h": 72
+          },
+          "card": {
+            "x": 24,
+            "y": 76,
+            "w": 392,
+            "h": 720
+          },
+          "panel": null,
+          "reopen": {
+            "x": 892,
+            "y": 756,
+            "w": 264,
+            "h": 40
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 29,
+        "labelsHidden": 0,
+        "smallTargets": 9,
+        "smallExamples": [
+          "Marketing 84×28",
+          "Vendas 64×28",
+          "Produto 70×28",
+          "Atendimento 98×28",
+          "CS 36×28",
+          "Financeiro 91×28"
+        ],
+        "tinyText": 35,
+        "fps": 60
+      },
+      "heart-panel": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1180,
+            "h": 72
+          },
+          "card": {
+            "x": 24,
+            "y": 76,
+            "w": 392,
+            "h": 720
+          },
+          "panel": {
+            "x": 716,
+            "y": 76,
+            "w": 440,
+            "h": 720
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 62,
+        "labelsHidden": 5,
+        "smallTargets": 18,
+        "smallExamples": [
+          "Marketing 84×28",
+          "Vendas 64×28",
+          "Produto 70×28",
+          "Atendimento 98×28",
+          "CS 36×28",
+          "Financeiro 91×28"
+        ],
+        "tinyText": 52,
+        "fps": 60
+      },
+      "glossary": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1180,
+            "h": 72
+          },
+          "card": {
+            "x": 24,
+            "y": 76,
+            "w": 392,
+            "h": 720
+          },
+          "panel": {
+            "x": 716,
+            "y": 76,
+            "w": 440,
+            "h": 720
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 62,
+        "labelsHidden": 5,
+        "smallTargets": 18,
+        "smallExamples": [
+          "Marketing 84×28",
+          "Vendas 64×28",
+          "Produto 70×28",
+          "Atendimento 98×28",
+          "CS 36×28",
+          "Financeiro 91×28"
+        ],
+        "tinyText": 53,
+        "fps": 60
+      },
+      "synthesis": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1180,
+            "h": 72
+          },
+          "card": {
+            "x": 24,
+            "y": 76,
+            "w": 392,
+            "h": 720
+          },
+          "panel": {
+            "x": 716,
+            "y": 76,
+            "w": 440,
+            "h": 720
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 62,
+        "labelsHidden": 2,
+        "smallTargets": 14,
+        "smallExamples": [
+          "Marketing 84×28",
+          "Vendas 64×28",
+          "Produto 70×28",
+          "Atendimento 98×28",
+          "CS 36×28",
+          "Financeiro 91×28"
+        ],
+        "tinyText": 44,
+        "fps": 60
+      }
+    },
+    "errors": []
+  },
+  "laptop": {
+    "size": "1280×720",
+    "moments": {
+      "rooftop": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1280,
+            "h": 62
+          },
+          "card": {
+            "x": 24,
+            "y": 266,
+            "w": 392,
+            "h": 241
+          },
+          "panel": null,
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 10,
+        "labelsHidden": 0,
+        "smallTargets": 10,
+        "smallExamples": [
+          "GUI BLOCK · CRM CO 213×16",
+          "Rooftop 81×28",
+          "BrainObjetivos e E 66×28",
+          "HeartPessoas e Pro 66×28",
+          "BackboneDados e Te 89×28",
+          "Síntese 81×28"
+        ],
+        "tinyText": 13,
+        "fps": 60
+      },
+      "brain": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1280,
+            "h": 62
+          },
+          "card": {
+            "x": 24,
+            "y": 76,
+            "w": 392,
+            "h": 620
+          },
+          "panel": null,
+          "reopen": {
+            "x": 1014,
+            "y": 661,
+            "w": 242,
+            "h": 35
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 26,
+        "labelsHidden": 0,
+        "smallTargets": 19,
+        "smallExamples": [
+          "Marketing 78×20",
+          "Vendas 58×20",
+          "Produto 64×20",
+          "Atendimento 92×20",
+          "CS 30×20",
+          "Financeiro 85×20"
+        ],
+        "tinyText": 32,
+        "fps": 60
+      },
+      "heart": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1280,
+            "h": 62
+          },
+          "card": {
+            "x": 24,
+            "y": 76,
+            "w": 392,
+            "h": 620
+          },
+          "panel": null,
+          "reopen": {
+            "x": 1014,
+            "y": 661,
+            "w": 242,
+            "h": 35
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 26,
+        "labelsHidden": 0,
+        "smallTargets": 23,
+        "smallExamples": [
+          "Marketing 78×20",
+          "Vendas 58×20",
+          "Produto 64×20",
+          "Atendimento 92×20",
+          "CS 30×20",
+          "Financeiro 85×20"
+        ],
+        "tinyText": 38,
+        "fps": 60
+      },
+      "backbone": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1280,
+            "h": 62
+          },
+          "card": {
+            "x": 24,
+            "y": 76,
+            "w": 392,
+            "h": 620
+          },
+          "panel": null,
+          "reopen": {
+            "x": 992,
+            "y": 661,
+            "w": 264,
+            "h": 35
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 26,
+        "labelsHidden": 0,
+        "smallTargets": 19,
+        "smallExamples": [
+          "Marketing 78×20",
+          "Vendas 58×20",
+          "Produto 64×20",
+          "Atendimento 92×20",
+          "CS 30×20",
+          "Financeiro 85×20"
+        ],
+        "tinyText": 32,
+        "fps": 60
+      },
+      "heart-panel": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1280,
+            "h": 62
+          },
+          "card": {
+            "x": 24,
+            "y": 76,
+            "w": 392,
+            "h": 620
+          },
+          "panel": {
+            "x": 816,
+            "y": 76,
+            "w": 440,
+            "h": 620
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 56,
+        "labelsHidden": 4,
+        "smallTargets": 31,
+        "smallExamples": [
+          "Marketing 78×20",
+          "Vendas 58×20",
+          "Produto 64×20",
+          "Atendimento 92×20",
+          "CS 30×20",
+          "Financeiro 85×20"
+        ],
+        "tinyText": 52,
+        "fps": 60
+      },
+      "glossary": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1280,
+            "h": 62
+          },
+          "card": {
+            "x": 24,
+            "y": 76,
+            "w": 392,
+            "h": 620
+          },
+          "panel": {
+            "x": 816,
+            "y": 76,
+            "w": 440,
+            "h": 620
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 56,
+        "labelsHidden": 4,
+        "smallTargets": 32,
+        "smallExamples": [
+          "Marketing 78×20",
+          "Vendas 58×20",
+          "Produto 64×20",
+          "Atendimento 92×20",
+          "CS 30×20",
+          "Financeiro 85×20"
+        ],
+        "tinyText": 53,
+        "fps": 60
+      },
+      "synthesis": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1280,
+            "h": 62
+          },
+          "card": {
+            "x": 24,
+            "y": 76,
+            "w": 392,
+            "h": 620
+          },
+          "panel": {
+            "x": 816,
+            "y": 76,
+            "w": 440,
+            "h": 620
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 56,
+        "labelsHidden": 2,
+        "smallTargets": 27,
+        "smallExamples": [
+          "Marketing 78×20",
+          "Vendas 58×20",
+          "Produto 64×20",
+          "Atendimento 92×20",
+          "CS 30×20",
+          "Financeiro 85×20"
+        ],
+        "tinyText": 40,
+        "fps": 60
+      }
+    },
+    "errors": []
+  },
+  "desktop": {
+    "size": "1920×1080",
+    "moments": {
+      "rooftop": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1920,
+            "h": 62
+          },
+          "card": {
+            "x": 24,
+            "y": 441,
+            "w": 392,
+            "h": 249
+          },
+          "panel": null,
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 5,
+        "labelsHidden": 0,
+        "smallTargets": 10,
+        "smallExamples": [
+          "GUI BLOCK · CRM CO 213×16",
+          "Rooftop 81×28",
+          "BrainObjetivos e E 209×28",
+          "HeartPessoas e Pro 186×28",
+          "BackboneDados e Te 203×28",
+          "Síntese 81×28"
+        ],
+        "tinyText": 16,
+        "fps": 60
+      },
+      "brain": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1920,
+            "h": 62
+          },
+          "card": {
+            "x": 24,
+            "y": 78,
+            "w": 392,
+            "h": 975
+          },
+          "panel": null,
+          "reopen": {
+            "x": 1654,
+            "y": 1021,
+            "w": 242,
+            "h": 35
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 18,
+        "labelsHidden": 0,
+        "smallTargets": 19,
+        "smallExamples": [
+          "Marketing 78×20",
+          "Vendas 58×20",
+          "Produto 64×20",
+          "Atendimento 92×20",
+          "CS 30×20",
+          "Financeiro 85×20"
+        ],
+        "tinyText": 39,
+        "fps": 60
+      },
+      "heart": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1920,
+            "h": 62
+          },
+          "card": {
+            "x": 24,
+            "y": 122,
+            "w": 392,
+            "h": 888
+          },
+          "panel": null,
+          "reopen": {
+            "x": 1654,
+            "y": 1021,
+            "w": 242,
+            "h": 35
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 17,
+        "labelsHidden": 0,
+        "smallTargets": 23,
+        "smallExamples": [
+          "Marketing 78×20",
+          "Vendas 58×20",
+          "Produto 64×20",
+          "Atendimento 92×20",
+          "CS 30×20",
+          "Financeiro 85×20"
+        ],
+        "tinyText": 43,
+        "fps": 53
+      },
+      "backbone": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1920,
+            "h": 62
+          },
+          "card": {
+            "x": 24,
+            "y": 84,
+            "w": 392,
+            "h": 964
+          },
+          "panel": null,
+          "reopen": {
+            "x": 1632,
+            "y": 1021,
+            "w": 264,
+            "h": 35
+          },
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 18,
+        "labelsHidden": 0,
+        "smallTargets": 19,
+        "smallExamples": [
+          "Marketing 78×20",
+          "Vendas 58×20",
+          "Produto 64×20",
+          "Atendimento 92×20",
+          "CS 30×20",
+          "Financeiro 85×20"
+        ],
+        "tinyText": 39,
+        "fps": 44
+      },
+      "heart-panel": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1920,
+            "h": 62
+          },
+          "card": {
+            "x": 24,
+            "y": 122,
+            "w": 392,
+            "h": 888
+          },
+          "panel": {
+            "x": 1456,
+            "y": 76,
+            "w": 440,
+            "h": 980
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 38,
+        "labelsHidden": 2,
+        "smallTargets": 37,
+        "smallExamples": [
+          "Marketing 78×20",
+          "Vendas 58×20",
+          "Produto 64×20",
+          "Atendimento 92×20",
+          "CS 30×20",
+          "Financeiro 85×20"
+        ],
+        "tinyText": 62,
+        "fps": 44
+      },
+      "glossary": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1920,
+            "h": 62
+          },
+          "card": {
+            "x": 24,
+            "y": 122,
+            "w": 392,
+            "h": 888
+          },
+          "panel": {
+            "x": 1456,
+            "y": 76,
+            "w": 440,
+            "h": 980
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 38,
+        "labelsHidden": 2,
+        "smallTargets": 38,
+        "smallExamples": [
+          "Marketing 78×20",
+          "Vendas 58×20",
+          "Produto 64×20",
+          "Atendimento 92×20",
+          "CS 30×20",
+          "Financeiro 85×20"
+        ],
+        "tinyText": 63,
+        "fps": 45
+      },
+      "synthesis": {
+        "overflowX": false,
+        "ui": {
+          "top": {
+            "x": 0,
+            "y": 0,
+            "w": 1920,
+            "h": 62
+          },
+          "card": {
+            "x": 24,
+            "y": 76,
+            "w": 392,
+            "h": 980
+          },
+          "panel": {
+            "x": 1456,
+            "y": 76,
+            "w": 440,
+            "h": 980
+          },
+          "reopen": null,
+          "hint": null
+        },
+        "overlaps": {
+          "cardPanel": 0,
+          "topCard": 0,
+          "topPanel": 0,
+          "reopenCard": 0
+        },
+        "sceneCovered": 39,
+        "labelsHidden": 0,
+        "smallTargets": 33,
+        "smallExamples": [
+          "Marketing 78×20",
+          "Vendas 58×20",
+          "Produto 64×20",
+          "Atendimento 92×20",
+          "CS 30×20",
+          "Financeiro 85×20"
+        ],
+        "tinyText": 54,
+        "fps": 60
+      }
+    },
+    "errors": []
+  }
+}

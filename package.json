@@ -1,0 +1,41 @@
+{
+  "name": "gui-block-building",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Gui Block — CRM como Sistema · Sprint 01: prova visual do prédio 3D procedural.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "capture": "node scripts/capture.mjs",
+    "check:leaks": "node scripts/remount-check.mjs",
+    "review-sheet": "node scripts/review-sheet.mjs",
+    "capture:xp": "node scripts/capture-experience.mjs",
+    "test:xp": "node scripts/smoke-experience.mjs",
+    "capture:reading": "node scripts/capture-reading.mjs",
+    "capture:stations": "node scripts/capture-stations.mjs",
+    "capture:people": "node scripts/capture-people.mjs",
+    "check:responsive": "node scripts/responsive-check.mjs"
+  },
+  "dependencies": {
+    "@gsap/react": "2.1.2",
+    "@react-three/drei": "10.7.9",
+    "@react-three/fiber": "9.8.2",
+    "@react-three/postprocessing": "3.2.1",
+    "gsap": "3.15.0",
+    "next": "16.4.2",
+    "postprocessing": "6.39.5",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.5",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@types/three": "0.186.0",
+    "playwright": "1.64.1",
+    "typescript": "5.9.3"
+  }
+}
